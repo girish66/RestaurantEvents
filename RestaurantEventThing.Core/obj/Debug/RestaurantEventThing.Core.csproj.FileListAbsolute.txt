@@ -1,0 +1,5 @@
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Core\bin\Debug\RestaurantEventThing.Core.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Core\bin\Debug\RestaurantEventThing.Core.pdb
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Core\obj\Debug\RestaurantEventThing.Core.csprojResolveAssemblyReference.cache
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Core\obj\Debug\RestaurantEventThing.Core.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Core\obj\Debug\RestaurantEventThing.Core.pdb

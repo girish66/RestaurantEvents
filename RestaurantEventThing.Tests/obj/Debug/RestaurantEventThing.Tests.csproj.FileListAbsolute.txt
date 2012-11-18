@@ -1,0 +1,9 @@
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\RestaurantEventThing.Tests.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\RestaurantEventThing.Tests.pdb
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\nunit.framework.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\RestaurantEventThing.Core.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\RestaurantEventThing.Core.pdb
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\bin\Debug\nunit.framework.xml
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\obj\Debug\RestaurantEventThing.Tests.csprojResolveAssemblyReference.cache
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\obj\Debug\RestaurantEventThing.Tests.dll
+D:\Dev\RestaurantEventThing\RestaurantEventThing.Tests\obj\Debug\RestaurantEventThing.Tests.pdb

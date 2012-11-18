@@ -1,0 +1,8 @@
+D:\Dev\RestaurantEventThing\QuickConsole\bin\Debug\QuickConsole.exe.config
+D:\Dev\RestaurantEventThing\QuickConsole\bin\Debug\QuickConsole.exe
+D:\Dev\RestaurantEventThing\QuickConsole\bin\Debug\QuickConsole.pdb
+D:\Dev\RestaurantEventThing\QuickConsole\bin\Debug\RestaurantEventThing.Core.dll
+D:\Dev\RestaurantEventThing\QuickConsole\bin\Debug\RestaurantEventThing.Core.pdb
+D:\Dev\RestaurantEventThing\QuickConsole\obj\Debug\QuickConsole.csprojResolveAssemblyReference.cache
+D:\Dev\RestaurantEventThing\QuickConsole\obj\Debug\QuickConsole.exe
+D:\Dev\RestaurantEventThing\QuickConsole\obj\Debug\QuickConsole.pdb

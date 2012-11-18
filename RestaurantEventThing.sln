@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantEventThing.Core", "RestaurantEventThing.Core\RestaurantEventThing.Core.csproj", "{BACDAB60-DB1A-4CF4-8E05-1A4AB6D27759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantEventThing.Tests", "RestaurantEventThing.Tests\RestaurantEventThing.Tests.csproj", "{58328C70-24DA-41D5-8B6E-F33998AD343B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickConsole", "QuickConsole\QuickConsole.csproj", "{BFC472F5-9856-4D69-BE89-53926B2B94AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACDAB60-DB1A-4CF4-8E05-1A4AB6D27759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACDAB60-DB1A-4CF4-8E05-1A4AB6D27759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACDAB60-DB1A-4CF4-8E05-1A4AB6D27759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACDAB60-DB1A-4CF4-8E05-1A4AB6D27759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58328C70-24DA-41D5-8B6E-F33998AD343B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58328C70-24DA-41D5-8B6E-F33998AD343B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58328C70-24DA-41D5-8B6E-F33998AD343B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58328C70-24DA-41D5-8B6E-F33998AD343B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC472F5-9856-4D69-BE89-53926B2B94AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC472F5-9856-4D69-BE89-53926B2B94AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC472F5-9856-4D69-BE89-53926B2B94AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC472F5-9856-4D69-BE89-53926B2B94AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
